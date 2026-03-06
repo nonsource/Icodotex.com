@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://icodotex.com/sitemap.xml
+
+# Crawl-delay (optional, be polite to crawlers)
+Crawl-delay: 10
